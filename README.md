@@ -70,4 +70,5 @@ RegisterNumber:24013673
 ![image](https://github.com/user-attachments/assets/4b01f55f-1ab1-4ac9-9abf-736c16a24ed7)
 
 **RESULTS**
+
 Thus the given SR Flip Flop expression is verified using Quartus software.
